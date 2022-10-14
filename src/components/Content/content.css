@@ -1,0 +1,115 @@
+.background {
+  width: 100%;
+}
+
+.main {
+  position: absolute;
+
+  margin-left: 200px;
+  width: 1277px;
+
+  height: 100%;
+
+  background: #ffffff;
+}
+
+.news-block {
+  position: absolute;
+
+  margin-left: 165px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  width: 350px;
+  height: 550px;
+
+  background: #817676;
+}
+
+h1 {
+  margin: 20px;
+  padding-left: 15px;
+  color: #ffffff;
+}
+
+h5 {
+  margin: 10px;
+  padding-left: 15px;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+.news-text {
+  margin: 10px;
+  padding-left: 15px;
+  color: #ffffff;
+}
+
+.main-content {
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 75px;
+  width: 1150px;
+  height: 700px;
+}
+
+.slider h1 {
+  opacity: 0.5;
+  color: black;
+  font-size: 50px;
+}
+
+.slider p {
+  position: absolute;
+  width: 666px;
+  height: 154px;
+
+  padding-left: 40px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+.second-text {
+  margin-top: 250px;
+}
+
+.second-text h3 {
+  margin-left: 55px;
+  padding-top: 28px;
+  margin-bottom: 28px;
+  margin-left: 37px;
+  opacity: 0.5;
+  color: black;
+  font-size: 25px;
+}
+
+.second-text p {
+  position: absolute;
+  width: 246px;
+  height: 179px;
+  margin-left: 5px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.three-text p {
+  position: absolute;
+  width: 246px;
+  height: 179px;
+  margin-left: 400px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}

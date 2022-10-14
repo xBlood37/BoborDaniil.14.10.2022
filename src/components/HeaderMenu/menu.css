@@ -1,0 +1,28 @@
+.menu {
+  padding-top: 250px;
+
+  width: 100%;
+  height: 50px;
+
+  background: #817676;
+}
+
+.menu__navigator {
+  padding-left: 670px;
+}
+
+.menu__navigator a {
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+}
+
+a:focus {
+  color: rgb(148, 140, 140);
+}

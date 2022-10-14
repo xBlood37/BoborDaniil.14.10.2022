@@ -1,0 +1,29 @@
+.footer {
+  position: absolute;
+  margin-top: 1000px;
+  width: 100%;
+  height: 294px;
+  background: #817676;
+}
+
+.info {
+  padding-left: 50px;
+  color: #ffffff;
+}
+
+.footer-info {
+  margin: 30px;
+  color: #ffffff;
+}
+
+.info-email {
+  padding-left: 50px;
+  margin-top: 220px;
+  color: #ffffff;
+}
+
+.info-author {
+  padding-left: 50px;
+  margin-top: 200px;
+  color: #ffffff;
+}
